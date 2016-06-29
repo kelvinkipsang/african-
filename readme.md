@@ -1,1 +1,1 @@
-this is an app that has short african stories
+this is a website that has short african stories
